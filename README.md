@@ -20,7 +20,7 @@ Hello! I'm Rodrigo, an agronomist and electromechanical technician with a passio
 
 In my GitHub profile, you can find a selection of projects that reflect my interests and skills. These projects include:
 
-- [Project 1]: Brief description of the project and its relevance.
+- [cursos-code]: Is the section where I post some practice excercises for my students.
 
 - [Project 2]: Brief description of the project and its relevance.
 
