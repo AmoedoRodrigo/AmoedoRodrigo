@@ -56,7 +56,7 @@ Thank you for visiting my GitHub profile, and I hope you find my projects intere
 
 Aquí en mi perfil de GitHub, puedes encontrar una selección de proyectos que reflejan mis intereses y habilidades. Estos proyectos incluyen:
 
-- [Proyecto 1]: Descripción breve del proyecto y su relevancia.
+- [cursos-code]: Es el reposcitorio donde subo ejercicios para que mis alumnos puedan practicar lo que van aprendiendo.
 
 - [Proyecto 2]: Descripción breve del proyecto y su relevancia.
 
