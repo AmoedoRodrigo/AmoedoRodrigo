@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile!
+# Welcome to my GitHub Profile! (Version en español debajo)
 
 Hello! I'm Rodrigo, an agronomist and electromechanical technician with a passion for agriculture, geographic information systems (GIS), robotics, home automation, and the sciences. I'm enthusiastic about exploring and applying technological solutions in the agricultural and environmental fields. I also enjoy sharing my knowledge and experience with like-minded individuals who are eager to make the world a better place.
 
