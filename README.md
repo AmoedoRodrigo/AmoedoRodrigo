@@ -20,7 +20,7 @@ Hello! I'm Rodrigo, an agronomist and electromechanical technician with a passio
 
 In my GitHub profile, you can find a selection of projects that reflect my interests and skills. These projects include:
 
-- [cursos-code]: Is the section where I post some practice excercises for my students.
+- [cursos-code](https://github.com/AmoedoRodrigo/cursos-code): Is the section where I post some practice excercises for my students.
 
 - [Project 2]: Brief description of the project and its relevance.
 
@@ -56,7 +56,7 @@ Thank you for visiting my GitHub profile, and I hope you find my projects intere
 
 Aquí en mi perfil de GitHub, puedes encontrar una selección de proyectos que reflejan mis intereses y habilidades. Estos proyectos incluyen:
 
-- [cursos-code]: Es el reposcitorio donde subo ejercicios para que mis alumnos puedan practicar lo que van aprendiendo.
+- [cursos-code](https://github.com/AmoedoRodrigo/cursos-code): Es el reposcitorio donde subo ejercicios para que mis alumnos puedan practicar lo que van aprendiendo.
 
 - [Proyecto 2]: Descripción breve del proyecto y su relevancia.
 
